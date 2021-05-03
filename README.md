@@ -1,5 +1,7 @@
 # Webpack `splitChunks` Name Bug
 
+Reproduction repo for [webpack/webpack#13299](https://github.com/webpack/webpack/issues/13299)
+
 ## Reproduction Steps
 
 1. Perform a build with Webpack 4:
