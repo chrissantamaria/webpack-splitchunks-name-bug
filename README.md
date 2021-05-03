@@ -48,4 +48,4 @@ dist
 └── polyfill-intl-datetimeformat.js.LICENSE.txt
 ```
 
-6. In `webpack-6/webpack.config.js`, change `reuseExistingChunk` to `false`. This should have no effect on the build output.
+6. In `webpack-5/webpack.config.js`, change `reuseExistingChunk` to `false`. This should have no effect on the build output.
