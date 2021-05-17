@@ -4,7 +4,8 @@
     "build": "webpack"
   },
   "dependencies": {
-    "@formatjs/intl-datetimeformat": "^3.3.4"
+    "@formatjs/intl-datetimeformat": "^3.3.4",
+    "three": "^0.128.0"
   },
   "devDependencies": {
     "webpack": "^5.36.2",
